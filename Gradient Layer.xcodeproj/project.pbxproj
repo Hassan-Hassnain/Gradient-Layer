@@ -13,6 +13,7 @@
 		3C54404F241CB206004CDC5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C54404D241CB206004CDC5F /* Main.storyboard */; };
 		3C544051241CB208004CDC5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C544050241CB208004CDC5F /* Assets.xcassets */; };
 		3C544054241CB208004CDC5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C544052241CB208004CDC5F /* LaunchScreen.storyboard */; };
+		3C54405C241CC1FD004CDC5F /* other function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C54405B241CC1FD004CDC5F /* other function.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3C544050241CB208004CDC5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C544053241CB208004CDC5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C544055241CB208004CDC5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C54405B241CC1FD004CDC5F /* other function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "other function.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3C544050241CB208004CDC5F /* Assets.xcassets */,
 				3C544052241CB208004CDC5F /* LaunchScreen.storyboard */,
 				3C544055241CB208004CDC5F /* Info.plist */,
+				3C54405B241CC1FD004CDC5F /* other function.swift */,
 			);
 			path = "Gradient Layer";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				3C54404C241CB206004CDC5F /* ViewController.swift in Sources */,
 				3C544048241CB206004CDC5F /* AppDelegate.swift in Sources */,
 				3C54404A241CB206004CDC5F /* SceneDelegate.swift in Sources */,
+				3C54405C241CC1FD004CDC5F /* other function.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
